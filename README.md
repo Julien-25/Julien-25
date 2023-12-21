@@ -18,6 +18,7 @@ Hello there! I'm Julien, currently immersing myself in the dynamic world of anal
 Feel free to browse through my repositories and don't hesitate to reach out if you're interested in collaborating on a project or just want to chat about data analytics!
 
 Best,
+
 Julien
 
 
