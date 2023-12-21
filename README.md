@@ -1,9 +1,9 @@
-# 🌟 Welcome to Julien's GitHub Space!
+# Welcome to Julien's GitHub Space!
 
 Hello there! I'm Julien, currently immersing myself in the dynamic world of analytics at McGill University. Here, I explore the intersection of data, technology, and real-world applications.
 
 ## 🚀 About Me
-- **Student at McGill:** Deep-diving into the realms of analytics, where numbers tell stories and drive innovation.
+- **Graduate Student:** Deep-diving into the realms of analytics, where numbers tell stories and drive innovation.
 - **Data Enthusiast:** Exploring how data can be used to inform decisions and strategies.
 
 ## 🌐 My Interests
